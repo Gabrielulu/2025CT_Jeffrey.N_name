@@ -378,7 +378,7 @@ Sprite Library Editor
 
 ### License
 
-This project is licensed under the [Jeffrey Ngo] License - see the LICENSE.md file for details
+This project is licensed under the [Gabriel Chito] License - see the LICENSE.md file for details
 
 ### Acknowledgments
 
